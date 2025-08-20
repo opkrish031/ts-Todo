@@ -61,9 +61,9 @@ export default function App() {
       </form>
 
       <ul id="list">
-        {/* <li className="bg-white text-black p-2 text-left  font-bold flex justify-between">
+        { <li className="bg-white text-black p-2 text-left  font-bold flex justify-between">
           Heyy <span className="text-[25px]" onClick={RemoveTodo}><CiCircleRemove/></span>
-        </li> */}
+        </li> }
       </ul>
     </>
   );
